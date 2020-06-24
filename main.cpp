@@ -5,7 +5,7 @@
 #include <array>
 #include <vector>
 #include <cassert>
-
+// hello
 struct Point {
     int x, y;
 	Point() : Point(0, 0) {}
